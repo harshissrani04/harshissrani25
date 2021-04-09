@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshissrani25
+- 👋 Hi, I’m Harsh
 - 👀 I’m interested in Web Development and Skill Development in Software Engineering
 - 🌱 I’m currently learning Maching Learning and Computer Networking
 - 💞️ I’m looking to collaborate on CodeChef
